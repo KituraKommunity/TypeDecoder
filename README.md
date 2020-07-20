@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://kitura.io/">
-        <img src="https://raw.githubusercontent.com/IBM-Swift/Kitura/master/Sources/Kitura/resources/kitura-bird.svg?sanitize=true" height="100" alt="Kitura">
+        <img src="https://raw.githubusercontent.com/KituraKommunity/Kitura/master/Sources/Kitura/resources/kitura-bird.svg?sanitize=true" height="100" alt="Kitura">
     </a>
 </p>
 
@@ -8,8 +8,8 @@
     <a href="https://ibm-swift.github.io/TypeDecoder/index.html">
     <img src="https://img.shields.io/badge/apidoc-TypeDecoder-1FBCE4.svg?style=flat" alt="APIDoc">
     </a>
-    <a href="https://travis-ci.org/IBM-Swift/TypeDecoder">
-    <img src="https://travis-ci.org/IBM-Swift/TypeDecoder.svg?branch=master" alt="Build Status - Master">
+    <a href="https://travis-ci.org/KituraKommunity/TypeDecoder">
+    <img src="https://travis-ci.org/KituraKommunity/TypeDecoder.svg?branch=master" alt="Build Status - Master">
     </a>
     <img src="https://img.shields.io/badge/os-macOS-green.svg?style=flat" alt="macOS">
     <img src="https://img.shields.io/badge/os-linux-green.svg?style=flat" alt="Linux">
@@ -30,10 +30,10 @@ The latest version of the TypeDecoder requires **Swift 4.0** or newer. You can d
 
 ### Add dependencies
 
-Add `TypeDecoder` to the dependencies within your application's `Package.swift` file. Substitute `"x.x.x"` with the latest `TypeDecoder` [release](https://github.com/IBM-Swift/TypeDecoder/releases).
+Add `TypeDecoder` to the dependencies within your application's `Package.swift` file. Substitute `"x.x.x"` with the latest `TypeDecoder` [release](https://github.com/KituraKommunity/TypeDecoder/releases).
 
 ```swift
-.package(url: "https://github.com/IBM-Swift/TypeDecoder.git", from: "x.x.x")
+.package(url: "https://github.com/KituraKommunity/TypeDecoder.git", from: "x.x.x")
 ```
 Add `TypeDecoder` to your target's dependencies:
 
@@ -289,4 +289,4 @@ We love to talk server-side Swift, and Kitura. Join our [Slack](http://swift-at-
 
 ## License
 
-This library is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/IBM-Swift/TypeDecoder/blob/master/LICENSE.txt).
+This library is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/KituraKommunity/TypeDecoder/blob/master/LICENSE.txt).
